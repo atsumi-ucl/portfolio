@@ -1,0 +1,24 @@
+# Introduction
+
+I am looking forward to learning remote sensing on this
+module!
+
+I have doctoral and postdoctoral training in epidemiology
+(of maternal and newborn health). I also have a master degree in Demography. My
+research so far has mainly focused on understanding health system factors that
+influence maternal and newborn health outcomes in resource-limited countries in
+Asia and Sub-Saharan Africa.  But I am
+also interested in environmental factors influencing pregnancy outcomes. This
+includes spatial health inequalities such as the physical distances between
+home and health facilities or where women live which manifests in varying
+health outcomes, particularly pregnancy outcome.In pursuit of my interests, I
+have become interested to using Earth Observation data for my research as
+traditional health survey data do not provide sufficient information with good
+coverage to understand the environments where women live.
+
+Anyway, I am looking forward to learning how to manipulate
+remotely sensed data including Google Earth Engine later in the term.
+
+
+
+
